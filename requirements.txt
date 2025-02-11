@@ -5,3 +5,4 @@ networkx
 matplotlib
 numpy
 geopy
+sklearn
