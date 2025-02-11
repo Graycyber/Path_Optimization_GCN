@@ -1,6 +1,5 @@
 streamlit
 torch
-torch.nn
 networkx
 matplotlib
 numpy
