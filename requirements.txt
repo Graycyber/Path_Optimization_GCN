@@ -1,0 +1,9 @@
+streamlit
+torch
+torch.nn
+networkx
+matplotlib
+numpy
+torch_geometric
+geopy
+sklearn
